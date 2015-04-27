@@ -6,18 +6,18 @@ lpsolve
 
 Minimum_outsourcing.R
 --------------------------------------
-www.pershing.com.tw
-Tim_Tsai
-Minimum outsourcing project costing
-Scene
-We have three of the long-term third-party provider(W1, W2, W3) which all have same quality and ability :
-Part of outsourcing project has three subprojects (T1, T2, T3).
-W1 contract quotes 160,000 for T1,quotes 100,000 for T2,quotes 130,000 for T3.
-W2 contract quotes 220,000 for T1,quotes 180,000 for T2,quotes 230,000 for T3.
-W3 contract quotes 150,000 for T1,quotes 250,000 for T2,quotes 170,000 for T3.
-Problem:
-The minimum amount project outsourcing costs.
-Best third-party providers of outsourcing contract subproject portfolio.
+		www.pershing.com.tw
+		Tim_Tsai
+		Minimum outsourcing project costing
+		Scene
+		We have three of the long-term third-party provider(W1, W2, W3) which all have same quality and ability :
+		Part of outsourcing project has three subprojects (T1, T2, T3).
+		W1 contract quotes 160,000 for T1,quotes 100,000 for T2,quotes 130,000 for T3.
+		W2 contract quotes 220,000 for T1,quotes 180,000 for T2,quotes 230,000 for T3.
+		W3 contract quotes 150,000 for T1,quotes 250,000 for T2,quotes 170,000 for T3.
+		Problem:
+		The minimum amount project outsourcing costs.
+		Best third-party providers of outsourcing contract subproject portfolio.
 
 
 
