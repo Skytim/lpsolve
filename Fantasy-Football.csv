@@ -1,0 +1,395 @@
+Player,Club,Pos,Price,Pts
+A Aquilani,Liverpool,MID,3,0
+A Arshavin,Arsenal,MID,7,69
+A Baptiste,Blackpool,DEF,1,7
+A Begovic,Stoke,GK,2.5,30
+A Carroll,Newcastle,STR,2,84
+A Cole,Chelsea,DEF,7,92
+A Diaby,Arsenal,MID,3,13
+A Diamanti,West Ham,STR,2,0
+A Elmohamady,Sunderland,MID,2,9
+A Faye,Stoke,DEF,2.5,11
+A Ferdinand,Sunderland,DEF,1.5,22
+A Gyan,Sunderland,STR,3,53
+A Hleb,Birmingham,MID,2.5,29
+A Hughes,Fulham,DEF,3,31
+A Hutton,Tottenham,DEF,3.5,25
+A Johnson,Fulham,STR,3,2
+A Johnson,Man City,MID,4,59
+A Kolarov,Man City,DEF,4,20
+A Lennon,Tottenham,MID,5,26
+A Meite,West Brom,DEF,1,2
+A Ramsey,Arsenal,MID,2,0
+A Reid,Sunderland,MID,2.5,4
+A Smith,Newcastle,MID,1,2
+A Song,Arsenal,MID,2.5,64
+A Wilkinson,Stoke,DEF,1.5,17
+A Young,Aston Villa,MID,5.5,70
+Alex,Chelsea,DEF,5,44
+Anderson,Man Utd,MID,3,14
+B Assou-Ekotto,Tottenham,DEF,3,20
+B Emerton,Blackburn,MID,2.5,22
+B Ferguson,Birmingham,MID,2.5,45
+B Foster,Birmingham,GK,3,58
+B Friedel,Aston Villa,GK,4.5,30
+B Hangeland,Fulham,DEF,3.5,54
+B Ivanovic,Chelsea,DEF,4.5,77
+B McCarthy,West Ham,STR,2,0
+B Ormerod,Blackpool,STR,1,14
+B Sagna,Arsenal,DEF,5,40
+B Valero,West Brom,MID,1.5,0
+B Zamora,Fulham,STR,4,28
+B Zenden,Sunderland,MID,1.5,29
+C Adam,Blackpool,MID,2.5,56
+C Baird,Fulham,DEF,2,13
+C Bellamy,Man City,MID,5.5,0
+C Berra,Wolves,DEF,1.5,-3
+C Brunt,West Brom,MID,2,50
+C Cole,West Ham,STR,4,18
+C Cuellar,Aston Villa,DEF,4,6
+C Dempsey,Fulham,MID,4,69
+C Fabregas,Arsenal,MID,8,72
+C Gardner,Birmingham,MID,2,14
+C Gordon,Sunderland,GK,2.5,13
+C Jerome,Birmingham,STR,2,29
+C Kirkland,Wigan,GK,2,-8
+C Lee,Bolton,MID,2,35
+C N'Zogbia,Wigan,MID,3,93
+C Poulsen,Liverpool,MID,2.5,16
+C Riveros,Sunderland,MID,1.5,1
+C Salcido,Fulham,DEF,2.5,15
+C Samba,Blackburn,DEF,3,49
+C Tevez,Man City,STR,7,104
+C Tiote,Newcastle,MID,2,18
+C Vela,Arsenal,STR,2.5,19
+D Agger,Liverpool,DEF,5,10
+D Bent,Sunderland,STR,5,64
+D Bentley,Tottenham,MID,3,-1
+D Berbatov,Man Utd,STR,6,95
+D Bilyaletdinov,Everton,MID,3,8
+D Campbell,Blackpool,STR,1,21
+D Campbell,Blackpool,STR,1,21
+D Collins,Stoke,DEF,1.5,16
+D Drogba,Chelsea,STR,9,76
+D Duff,Fulham,MID,3.5,8
+D Dunn,Blackburn,MID,3.5,19
+D Etuhu,Fulham,MID,1.5,20
+D Fletcher,Man Utd,MID,3,64
+D Gabbidon,West Ham,DEF,1.5,17
+D Gibson,Man Utd,MID,3,11
+D Guthrie,Newcastle,MID,2,0
+D Higginbotham,Stoke,DEF,2.5,13
+D Kitson,Stoke,STR,1.5,0
+D Kuyt,Liverpool,MID,5.5,42
+D Murphy,Fulham,MID,3.5,27
+D Ngog,Liverpool,STR,4.5,42
+D Silva,Man City,MID,4,63
+D Simpson,Newcastle,DEF,1,11
+D Sturridge,Chelsea,STR,3,13
+D Welbeck,Sunderland,STR,2,52
+D Whitehead,Stoke,MID,2,30
+Deco,Chelsea,MID,4,0
+Denilson,Arsenal,MID,3,14
+E Adebayor,Man City,STR,6.5,49
+E Boyce,Wigan,DEF,2,18
+E Eboue,Arsenal,MID,3,10
+E Gudjohnsen,Stoke,STR,2,0
+E Hadji Diouf,Blackburn,MID,2.5,22
+E Heskey,Aston Villa,STR,3,35
+E Insua,Liverpool,DEF,4.5,0
+E Nevland,Fulham,STR,1.5,0
+E van der Sar,Man Utd,GK,5.5,59
+Eduardo,Arsenal,STR,3.5,0
+F Aurelio,Liverpool,DEF,4.5,19
+F Campbell,Sunderland,STR,2,0
+F Coloccini,Newcastle,DEF,1.5,27
+F Lampard,Chelsea,MID,9,17
+F Malouda,Chelsea,MID,5.5,106
+F Muamba,Bolton,MID,1,19
+F Piquionne,West Ham,STR,2.5,42
+F Torres,Liverpool,STR,8,53
+G Agbonlahor,Aston Villa,STR,5.5,24
+G Bale,Tottenham,DEF,5,122
+G Barry,Man City,MID,4.5,34
+G Cahill,Bolton,DEF,2.5,28
+G Caldwell,Wigan,DEF,2,11
+G Clichy,Arsenal,DEF,5,32
+G Dorrans,West Brom,MID,2.5,16
+G Elokobi,Wolves,DEF,1.5,-2
+G Givet,Blackburn,DEF,2.5,30
+G Jara,West Brom,DEF,1,2
+G Johnson,Liverpool,DEF,5.5,33
+G McCartney,Sunderland,DEF,1.5,0
+G Neville,Man Utd,DEF,3.5,-4
+G Steinsson,Bolton,DEF,1.5,5
+G Tamas,West Brom,DEF,1.5,5
+G Taylor-Fletcher,Blackpool,STR,1,23
+G Whelan,Stoke,MID,2,19
+G Zuiverloon,West Brom,DEF,1,16
+H Ben Arfa,Newcastle,MID,2,10
+H Gomes,Tottenham,GK,4.5,15
+H Ilunga,West Ham,DEF,1.5,-9
+H Rodallega,Wigan,STR,2.5,38
+H Thomas,Wigan,MID,1.5,28
+I Evatt,Blackpool,DEF,1,14
+I Klasnic,Bolton,STR,1.5,15
+J Barton,Newcastle,MID,2,38
+J Beattie,Stoke,STR,1.5,0
+J Beausejour,Birmingham,MID,2,10
+J Beckford,Everton,STR,1.5,15
+J Boateng,Man City,DEF,4,26
+J Bosingwa,Chelsea,DEF,5.5,21
+J Carew,Aston Villa,STR,5,6
+J Carragher,Liverpool,DEF,6,60
+J Cole,Liverpool,MID,4,29
+J Collins,Aston Villa,DEF,4,28
+J Collison,West Ham,MID,1.5,0
+J Craddock,Wolves,DEF,2,6
+J Defoe,Tottenham,STR,6.5,14
+J Djourou,Arsenal,DEF,3.5,27
+J Elmander,Bolton,STR,1.5,75
+J Enrique,Newcastle,DEF,1.5,25
+J Euell,Blackpool,MID,1,4
+J Evans,Man Utd,DEF,4,9
+J Faubert,West Ham,DEF,1.5,3
+J Greening,Fulham,MID,2,9
+J Gutierrez,Newcastle,MID,2,29
+J Hart,Man City,GK,4,86
+J Heitinga,Everton,MID,3,14
+J Henderson,Sunderland,MID,1.5,51
+J Hernandez,Man Utd,STR,3,51
+J Jaaskelainen,Bolton,GK,1.5,20
+J Jenas,Tottenham,MID,3,6
+J Koumas,Wigan,MID,1.5,0
+J Lescott,Man City,DEF,4.5,23
+J Mascherano,Liverpool,MID,4.5,3
+J Mattock,West Brom,DEF,1,0
+J McCarthy,Wigan,MID,2,31
+J McFadden,Birmingham,MID,2,16
+J Mensah,Sunderland,DEF,1.5,9
+J Milner,Man City,MID,5.5,47
+J Obi Mikel,Chelsea,MID,3,43
+J O'Hara,Tottenham,MID,3,0
+J Olsson,West Brom,DEF,1.5,19
+J O'Shea,Man Utd,DEF,3.5,24
+J Pantsil,Fulham,DEF,2,8
+J Park,Man Utd,MID,4,62
+J Pennant,Stoke,MID,2,18
+J Reina,Liverpool,GK,5.5,70
+J Roberts,Blackburn,STR,2,18
+J Rodwell,Everton,MID,2,18
+J Samuel,Bolton,DEF,2,0
+J Scotland,Wigan,STR,1,0
+J Spector,West Ham,DEF,1.5,24
+J Stanislas,West Ham,MID,1.5,4
+J Terry,Chelsea,DEF,7.5,84
+J Thomas,West Brom,MID,1,27
+J Tomkins,West Ham,DEF,1.5,14
+J Van Damme,Wolves,DEF,1.5,5
+J Walters,Stoke,STR,1.5,11
+J Wilshere,Arsenal,MID,2,50
+J Woodgate,Tottenham,DEF,3.5,0
+J Yobo,Everton,DEF,3,0
+K Andrews,Blackburn,MID,1,0
+K Davies,Bolton,STR,4,61
+K Doyle,Wolves,STR,2.5,57
+K Dyer,West Ham,MID,2,10
+K Fahey,Birmingham,MID,2,21
+K Foley,Wolves,MID,2,32
+K Gibbs,Arsenal,DEF,3,21
+K Henry,Wolves,MID,1.5,18
+K Jones,Stoke,STR,3.5,77
+K Nolan,Newcastle,MID,2.5,64
+K Phillips,Birmingham,STR,1.5,5
+K Richardson,Sunderland,MID,2,14
+K Southern,Blackpool,MID,1,11
+K Toure,Man City,DEF,4.5,75
+L Baines,Everton,DEF,4,47
+L Boa Morte,West Ham,MID,1.5,8
+L Bowyer,Birmingham,MID,2.5,24
+L Cattermole,Sunderland,MID,2,35
+L Fabianski,Arsenal,GK,4.5,28
+L Jacobsen,West Ham,DEF,2,6
+L King,Tottenham,DEF,3,15
+L Koscielny,Arsenal,DEF,4.5,18
+L Lawrence,Stoke,MID,2,0
+L Modric,Tottenham,MID,5,29
+L Moore,West Brom,STR,1,3
+L Osman,Everton,MID,3,20
+L Ridgewell,Birmingham,DEF,2,55
+L Saha,Everton,STR,5,8
+L Valencia,Man Utd,MID,4.5,6
+L Varney,Blackpool,STR,1,37
+L Young,Aston Villa,DEF,3.5,15
+Lucas,Liverpool,MID,3,42
+M Albrighton,Aston Villa,MID,1.5,38
+M Almunia,Arsenal,GK,5,16
+M Alonso,Bolton,DEF,2,8
+M Arteta,Everton,MID,5,38
+M Balotelli,Man City,STR,3.5,39
+M Boselli,Wigan,STR,1.5,8
+M Carrick,Man Utd,MID,4.5,25
+M Cech,West Brom,DEF,1,7
+M Chamakh,Arsenal,STR,5,85
+M Da Costa,West Ham,DEF,1.5,26
+M Dawson,Tottenham,DEF,4,10
+M Dembele,Fulham,STR,2,19
+M Diame,Wigan,MID,1.5,18
+M Diouf,Blackburn,STR,1.5,41
+M Essien,Chelsea,MID,5,82
+M Etherington,Stoke,MID,3,64
+M Fellaini,Everton,MID,3.5,10
+M Figueroa,Wigan,DEF,1.5,16
+M Fortune,West Brom,STR,1,8
+M Gamst Pedersen,Blackburn,MID,3,63
+M Gilks,Blackpool,GK,1,7
+M Hahnemann,Wolves,GK,2,0
+M Harewood,Blackpool,STR,1.5,32
+M Jarvis,Wolves,MID,2.5,54
+M Jovanovic,Liverpool,STR,4.5,22
+M Kightly,Wolves,MID,1.5,0
+M Mancienne,Wolves,DEF,1.5,-7
+M Melchiot,Wigan,DEF,1.5,0
+M Noble,West Ham,MID,2.5,43
+M Olsson,Blackburn,MID,2,6
+M Owen,Man Utd,STR,3,26
+M Petrov,Bolton,MID,2.5,31
+M Richards,Man City,DEF,4,40
+M Rodriguez,Liverpool,MID,3,64
+M Salgado,Blackburn,DEF,2,6
+M Schwarzer,Fulham,GK,3,23
+M Silvestre,Arsenal,DEF,3.5,0
+M Skrtel,Liverpool,DEF,4.5,49
+M Taylor,Bolton,MID,3,15
+M Turner,Sunderland,DEF,2,44
+M Upson,West Ham,DEF,2.5,6
+M Williamson,Newcastle,DEF,1,9
+Michel,Birmingham,MID,2,0
+N Anelka,Chelsea,STR,7.5,82
+N Bendtner,Arsenal,STR,4.5,24
+N de Jong,Man City,MID,2,56
+N Kalinic,Blackburn,STR,2,15
+N Kranjcar,Tottenham,MID,4,3
+N Milijas,Wolves,MID,1.5,33
+N Onuoha,Sunderland,DEF,3,42
+N Reo-Coker,Aston Villa,MID,2.5,30
+N Shorey,West Brom,DEF,3.5,20
+N Vidic,Man Utd,DEF,6.5,85
+N Zigic,Birmingham,STR,2,29
+Nani,Man Utd,MID,4.5,96
+O Hargreaves,Man Utd,MID,3,0
+P Bardsley,Sunderland,DEF,1.5,44
+P Barrera,West Ham,MID,2,14
+P Cech,Chelsea,GK,5.5,80
+P Chimbonda,Blackburn,DEF,2,-7
+P Crouch,Tottenham,STR,5,69
+P Da Silva,Sunderland,DEF,1.5,-2
+P Evra,Man Utd,DEF,5.5,64
+P Ferreira,Chelsea,DEF,4,21
+P Jagielka,Everton,DEF,3.5,31
+P Jones,Blackburn,DEF,1.5,37
+P Konchesky,Liverpool,DEF,2.5,33
+P Lovenkrands,Newcastle,STR,1,16
+P Neville,Everton,DEF,2.5,30
+P Odemwingie,West Brom,STR,2,44
+P Robinson,Blackburn,GK,3,48
+P Robinson,Bolton,DEF,1.5,2
+P Scholes,Man Utd,MID,3.5,54
+P Senderos,Fulham,DEF,3,0
+P Vieira,Man City,MID,2,10
+P Zabaleta,Man City,DEF,3,71
+R Babel,Liverpool,MID,3,23
+R Bednar,West Brom,STR,2,3
+R Carvalho,Chelsea,DEF,5,0
+R Delap,Stoke,MID,2,22
+R Dunne,Aston Villa,DEF,5,15
+R Ferdinand,Man Utd,DEF,6,53
+R Fuller,Stoke,STR,2,34
+R Gardner,Bolton,MID,2,5
+R Giggs,Man Utd,MID,3.5,23
+R Green,West Ham,GK,2.5,37
+R Huth,Stoke,DEF,2.5,45
+R Johnson,Birmingham,DEF,2.5,63
+R Keane,Tottenham,STR,5,8
+R Kovac,West Ham,MID,1.5,3
+R Meireles,Liverpool,MID,3.5,23
+R Nelsen,Blackburn,DEF,2.5,35
+R Pavlyuchenko,Tottenham,STR,4,62
+R Santa Cruz,Man City,STR,3.5,0
+R Shawcross,Stoke,DEF,3,35
+R Taylor,Newcastle,MID,1.5,19
+R van der Vaart,Tottenham,MID,4.5,84
+R van Persie,Arsenal,STR,7,3
+R Zubar,Wolves,DEF,2,-1
+Rafael,Man Utd,DEF,3.5,46
+Ramires,Chelsea,MID,3,18
+Robinho,Man City,STR,4,0
+S Ameobi,Newcastle,STR,1,48
+S Bassong,Tottenham,DEF,3,12
+S Campbell,Newcastle,DEF,1,-7
+S Carr,Birmingham,DEF,2,38
+S Carson,West Brom,GK,1.5,1
+S Coleman,Everton,DEF,2.5,20
+S Cox,West Brom,STR,1,21
+S Crainey,Blackpool,DEF,1,17
+S Dann,Birmingham,DEF,2,46
+S Davies,Fulham,MID,1.5,19
+S Distin,Everton,DEF,3.5,33
+S Downing,Aston Villa,MID,4,59
+S Ebanks-Blake,Wolves,STR,2,32
+S Fletcher,Wolves,STR,2.5,28
+S Gerrard,Liverpool,MID,8,70
+S Given,Man City,GK,4,5
+S Harper,Newcastle,GK,1.5,10
+S Hunt,Wolves,MID,2.5,14
+S Ireland,Aston Villa,MID,2.5,1
+S Kalou,Chelsea,STR,4,64
+S Kyrgiakos,Liverpool,DEF,3.5,46
+S Larsson,Birmingham,MID,2.5,55
+S Malbranque,Sunderland,MID,2.5,32
+S Mouyokolo,Wolves,DEF,1.5,-7
+S Nasri,Arsenal,MID,4,121
+S Nzonzi,Blackburn,MID,2,19
+S Parker,West Ham,MID,3.5,96
+S Petrov,Aston Villa,MID,3,15
+S Pienaar,Everton,MID,4.5,34
+S Reid,West Brom,MID,1,18
+S Ricketts,Bolton,DEF,1.5,17
+S Sidwell,Aston Villa,MID,2.5,3
+S Squillaci,Arsenal,DEF,4.5,28
+S Taylor,Newcastle,DEF,1,1
+S Ward,Wolves,DEF,1.5,-1
+S Warnock,Aston Villa,DEF,3.5,6
+S Wright-Phillips,Man City,MID,3,26
+T Ben Haim,West Ham,DEF,1.5,10
+T Bramble,Sunderland,DEF,2,45
+T Cahill,Everton,MID,5,69
+T Cohen,Bolton,MID,1,-1
+T Hibbert,Everton,DEF,2,0
+T Hitzlsperger,West Ham,MID,2.5,0
+T Howard,Everton,GK,3.5,20
+T Huddlestone,Tottenham,MID,3,24
+T Rosicky,Arsenal,MID,4,26
+T Sorensen,Stoke,GK,3,18
+T Vermaelen,Arsenal,DEF,6,11
+T Walcott,Arsenal,MID,4,83
+V Behrami,West Ham,MID,2,20
+V Corluka,Tottenham,DEF,4,10
+V Grella,Blackburn,MID,1,2
+V Kompany,Man City,DEF,3,88
+V Moses,Wigan,MID,2,24
+V Obinna,West Ham,STR,1.5,42
+W Bridge,Man City,DEF,4,-1
+W Brown,Man Utd,DEF,3.5,13
+W Gallas,Tottenham,DEF,5,13
+W Palacios,Tottenham,MID,2.5,-1
+W Rooney,Man Utd,STR,8.5,18
+W Routledge,Newcastle,MID,2,12
+Y Benayoun,Chelsea,MID,4.5,22
+Y Kaboul,Tottenham,DEF,3,15
+Y Mulumbu,West Brom,MID,1,32
+Y Toure,Man City,MID,3,58
+Y Zhirkov,Chelsea,DEF,4,52
+Yakubu,Everton,STR,4,19
+Z Gera,Fulham,MID,2.5,44
+Z Knight,Bolton,DEF,1.5,40
